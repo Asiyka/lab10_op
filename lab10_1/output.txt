@@ -1,0 +1,17 @@
+Surname      		 Name		   Date of birth	Examination marks
+------------------------------------------------------------------------
+1 | Zavorotnyi           Vladyslav           21.7.2001		4 5 5 5 5 
+2 | Symovin              Taras               25.4.2001		4 4 4 5 3 
+3 | Pryhodko             Andrii              10.11.2000		3 4 4 5 5 
+4 | Lysak                Tetiana              1.3.2001		3 3 5 4 4 
+5 | Kotok                Maksym              14.7.2001		3 3 3 4 3 
+6 | Kalymon              Andrii              22.5.2001		4 4 3 5 4 
+7 | Ilchuk               Anatolii            23.11.2000		4 3 5 4 3 
+8 | Hura                 Yaroslav             8.6.2001		5 4 5 4 5 
+9 | Hopainych            Diana               18.2.2001		5 3 4 3 4 
+10| Holda                Anton               22.6.2001		4 4 4 5 5 
+11| Havdulskyi           Roman               10.4.2001		3 3 5 3 3 
+12| Hapon                Vitalii             24.8.2001		3 3 5 3 5 
+13| Dolynskyi            Vitalii              3.5.2001		5 5 3 4 4 
+14| Chernikov            Denys                1.3.2001		4 5 4 4 4 
+15| Chaban               Taras               13.6.2001		3 5 4 3 3 
